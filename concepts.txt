@@ -1,0 +1,10 @@
+will eventually convert to commands
+- convert initally to rectangles with width/length 1 and change later
+    - will have to compare a ridiculous number of strings (i imagine inefficient)
+    - will potentially not require looping through
+vs
+- store all the rectangles in an array and use it to more easily check for length/width 1 before code
+    - extra loops through
+    - cleaner to read
+
+also - WE DON'T HAVE TO WRITE SEQUENTIALLY!!!! WE CAN SAVE LINES BY WRITING ALL PIXELS OF ONE COLOR AT ONCE
